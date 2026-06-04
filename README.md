@@ -351,6 +351,22 @@ PASTE_YOUR_RENDER_URL_HERE/docs
 
 ---
 
+## 📸 Screenshots
+
+### 1. Dashboard
+![Dashboard](AI_Predict_flow/DashBoard_01.png)
+
+### 2. Swagger Documentation  
+![Swagger Docs](AI_Predict_flow/Swagger_documentation_02.png)
+
+### 3. API Docs
+![API Docs](AI_Predict_flow/api_docs_03.png)
+
+### 4. API Response
+![API Response](AI_Predict_flow/api_response_04.png)
+
+---
+
 # 📊 Final Outcome
 
 PredictFlow AI successfully demonstrates how modern backend systems can combine:
