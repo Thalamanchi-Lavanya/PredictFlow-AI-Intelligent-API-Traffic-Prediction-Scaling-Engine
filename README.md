@@ -24,12 +24,6 @@
 https://predictflow-ai-intelligent-api-traffic.onrender.com/
 ```
 
-### 📘 API Documentation
-
-```text
-PASTE_YOUR_RENDER_URL_HERE/docs
-```
-
 ---
 
 ## 📌 Project Overview
