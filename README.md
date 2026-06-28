@@ -21,7 +21,7 @@
 ### 🌐 Application URL
 
 ```text
-PASTE_YOUR_RENDER_URL_HERE
+https://predictflow-ai-intelligent-api-traffic.onrender.com/
 ```
 
 ### 📘 API Documentation
